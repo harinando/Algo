@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="/Users/nando/git/Algo/8puzzle/src/main/java/Board.java">
+<error line="124" column="19" severity="error" message="&apos;if&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+<file name="/Users/nando/git/Algo/8puzzle/src/main/java/PuzzleChecker.java">
+</file>
+<file name="/Users/nando/git/Algo/8puzzle/src/main/java/Solver.java">
+</file>
+</checkstyle>
